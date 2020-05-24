@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "skhu-ydg"
+    "default": "skhu-ydg",
+    "staging": "skhu-ydg2"
   }
 }
